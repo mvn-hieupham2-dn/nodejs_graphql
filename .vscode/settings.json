@@ -1,0 +1,6 @@
+{
+    "git.ignoreLimitWarning": true,
+    "docker.environment": {
+        "DOCKER_CONTEXT": "colima"
+    },
+}
